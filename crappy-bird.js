@@ -3,6 +3,7 @@ function setup(){
   pipeX = random(100, 200);
   pipe_len = random(50, 300);  
 }
+
 let playing = true;
 flying = false;
 let points = 0;
